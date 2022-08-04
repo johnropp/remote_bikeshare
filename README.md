@@ -19,3 +19,4 @@ washington.csv
 
 ### Credits
 This project was inspired by the Udacity Data Analytics with Python course.
+I also credit reviewer 1 on my project for giving me helpful tips on how to better follow the Udacity Commit Messaging Style Guide.
