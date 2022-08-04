@@ -184,6 +184,8 @@ def user_stats(df):
 
 # Function to display raw data
 def raw_data(df):
+    """Allows user to choose to view raw data. """
+    
     start_loc = 0
     while True:
         view_raw_data = input("Would you like to see 5 rows of raw data? Enter 'yes' or 'no'.\n").lower()
