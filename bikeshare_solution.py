@@ -24,7 +24,7 @@ def get_filters():
             continue
         else:
             break
-    print('\nYou selected ', city.title())
+    print('\nThe city you selected was:', city.title())
     # get user input for month (all, january, february, ... , june)
     while True:
         month = input("\nType the complete name of a month (January - June) of the year to filter the data, or type 'all':\n")
